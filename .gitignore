@@ -1,0 +1,12 @@
+# files
+清理.cmd
+*.18109
+*.uvoptx
+*.uvprojx
+*.uvoptx
+*.uvgunix*
+
+# dir
+DebugConfig
+Listings
+Objects
