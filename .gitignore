@@ -1,10 +1,52 @@
+# ==============================
+# Keil uVision / MDK-ARM Ignore
+# ==============================
+
 # files
 清理.cmd
 *.18109
+*.axf
+*.elf
+*.hex
+*.bin
+*.lst
+*.map
+*.bak
+*.tmp
+*.lnp
+*.tra
+*.crf
+*.d
+*.o
+*.obj
+*.sct
+*.htm
+*.html
+*.dep
+*.iex
+*.uvguix.*
 *.uvoptx
-*.uvprojx
-*.uvoptx
-*.uvgunix*
+*.uvgui.*
+*.scvd
+*.build_log.htm
+*.clog
+*.pdb
+*.uvopt
+*.uvprojx.bak
+*.uvproj.bak
+*.ini
+*.user
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+*.log
+*.dep
+~$*
+*.bak
+*.orig
+*.old
 
 # dir
 DebugConfig
