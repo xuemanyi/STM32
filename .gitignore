@@ -27,6 +27,7 @@
 *.uvguix.*
 *.uvoptx
 *.uvgui.*
+*.uvprojx
 *.scvd
 *.build_log.htm
 *.clog
@@ -43,6 +44,7 @@ Desktop.ini
 *.swo
 *.log
 *.dep
+*.lnk
 ~$*
 *.bak
 *.orig
@@ -52,4 +54,5 @@ Desktop.ini
 DebugConfig
 Listings
 Objects
-
+font
+startup
